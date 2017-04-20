@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face {
+    font-family: Myriad Pro; 
+    src: url(8143.otf);
+}
+
+.conteiner{
+
+	width: 1024px;
+	height: 1024px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: #F8F2F4;
+	border: 0.3px solid black;
+}
+h1{
+	/*font-size: 110%*/;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 50px 0px 30px 0px;
+	font-weight: bold;
+	font-family: Arial;
+
+
+}
+.photo{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin:auto;
+	
+	background-image: url(484604333.jpeg);
+	background-size: cover;
+
+}
+
+.conteiner .Why{
+	font-family: Arial;
+	/*margin-top: 25px;*/
+	padding: 25px 0px 24px 0px;
+	font-size: 100%;
+	border-bottom: 1px solid grey;
+	font-size: 14pt;
+
+}
+.wraper{
+	/*border: 0.3px solid black;*/
+	width: 700px;
+	height: 100%;
+	margin:auto;
+
+}
+h2 {
+	padding: 25px 0px 25px 0px;
+	font-family: Myriad Pro;
+	font-weight: bold;
+}
+ul{
+	padding-left: 60px;
+	border-bottom: 1px solid grey;
+	padding-bottom: 24px;
+	
+
+}
+.font {
+	 padding-left:40px;
+  	font-family: Myriad Pro;
+  	font-size: 14pt;
+}
+
+a{
+	display: block;
+	padding-bottom: 26px;
+	border-bottom: 1px solid grey;
+	font-style:italic;
+	font-family: Myriad Pro;
+	padding-left:40px;
+	font-size: 14pt;
+}
+li {
+	font-family: Myriad Pro;
+	 font-size: 14pt;
+
+}
+
